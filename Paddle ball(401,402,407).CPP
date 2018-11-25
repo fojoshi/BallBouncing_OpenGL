@@ -61,7 +61,7 @@ radius =20;
 		settextstyle(11,0,1);
 		cout<<"hello world";
 		outtextxy(0,50,"PADDLE BALL GAME");
-		outtextxy(0,100,"THIS PROJECT IS PRESENTED BY NANDAN.S.NADKARNI PRESS 'S' TO START THE GAME");
+		outtextxy(0,100," PROJECT BY FORAM PRESS 'S' TO START THE GAME");
 		l=getch();
 		if(l=='s')
 		{
